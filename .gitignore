@@ -6,7 +6,7 @@
 
 # if you want to upload the .apk as well, add the additional .gitignore in "app" directory,
 # otherwise uncomment this:
-#/app/build
+/app/build
 
 # android studio project files
 *.iml
