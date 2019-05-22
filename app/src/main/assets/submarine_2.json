@@ -1,0 +1,123 @@
+{
+  "entities": [
+    {
+      "class":"Ladder",
+      "lane1Name":"lane0",
+      "lane2Name":"lane3",
+      "ladderPos":"650"
+    },
+    {
+      "class":"Ladder",
+      "lane1Name":"lane1",
+      "lane2Name":"lane2",
+      "ladderPos":"250"
+    },
+
+    {
+      "class":"Ladder",
+      "lane1Name":"lane3",
+      "lane2Name":"lane4",
+      "ladderPos":"950"
+    },
+    {
+      "class":"Ladder",
+      "lane1Name":"lane4",
+      "lane2Name":"lane5",
+      "ladderPos":"1500"
+    },
+    {
+      "class":"Ladder",
+      "lane1Name":"lane5",
+      "lane2Name":"lane2",
+      "ladderPos":"1600"
+    },
+    {
+      "class":"Destructable",
+      "x":"450",
+      "y":"685"
+    },
+    {
+      "class":"Destructable",
+      "x":"100",
+      "y":"445"
+    },
+    {
+      "class":"Destructable",
+      "x":"500",
+      "y":"210"
+    },
+    {
+      "class":"Destructable",
+      "x":"1000",
+      "y":"210"
+    },
+    {
+      "class":"Destructable",
+      "x":"1200",
+      "y":"685"
+    },
+    {
+      "class":"Destructable",
+      "x":"1450",
+      "y":"210"
+    },
+    {
+      "class":"Destructable",
+      "x":"1800",
+      "y":"445"
+    },
+    {
+      "class":"Destructable",
+      "x":"1150",
+      "y":"445"
+    }
+  ],
+  "lanes": [
+    {
+      "name": "lane0",
+      "height": "800",
+      "start": "420",
+      "end": "800"
+    },
+    {
+      "name": "lane1",
+      "height": "550",
+      "start": "100",
+      "end": "500"
+    },
+    {
+      "name": "lane2",
+      "height": "300",
+      "start": "250",
+      "end": "1700"
+    },
+    {
+      "name": "lane3",
+      "height": "550",
+      "start": "600",
+      "end": "1000"
+    },
+    {
+      "name": "lane4",
+      "height": "800",
+      "start": "950",
+      "end": "1600"
+    },
+    {
+      "name": "lane5",
+      "height": "550",
+      "start": "1100",
+      "end": "1900"
+    },
+    {
+      "name": "lane7",
+      "height": "300",
+      "start": "1450",
+      "end": "1700"
+    }
+  ],
+  "playerspawn":{
+    "lane":"lane0",
+    "pos":"0"
+  }
+}

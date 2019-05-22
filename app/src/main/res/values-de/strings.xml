@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sinking</string>
+    <string name="atart_Level_1">Starte Level 1</string>
+    <string name="atart_Level_2">Starte Level 2</string>
+    <string name="highscores">Highscores</string>
+    <string name="quit_game">Beenden</string>
+    <string name="title_activity_game_engine">GameEngine</string>
+    <string name="skip_intro_hint">Tippe zum Überspringen</string>
+    <string name="help_text">Benutze die \"Links\" und \"Rechts\" Buttons um Dich zu bewegen. Benutze den Aktions-Button um Dinge zu reparieren oder auf Leitern zu klettern.</string>
+    <string name="help_title">Hilfe</string>
+    <string name="won">Geschafft!</string>
+    <string name="you_won_message">Du hast das Boot vor dem Sinken bewahrt!</string>
+    <string name="lost">Du bist versunken</string>
+    <string name="you_lost_message">Du hast es nicht geschafft, das Boot zu bewahren.</string>
+    <string name="your_time">Deine Zeit:</string>
+    <string name="okay">Aye!</string>
+    <string name="name">Name</string>
+</resources>

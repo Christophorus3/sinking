@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "class":"Ladder",
+      "lane1Name":"lane1",
+      "lane2Name":"lane0",
+      "ladderPos":"300"
+    },
+    {
+      "class":"Destructable",
+      "x":"850",
+      "y":"850"
+    }
+  ],
+  "lanes": [
+    {
+      "name": "lane0",
+      "height": "850",
+      "start": "100",
+      "end": "1200"
+    },
+    {
+      "name": "lane1",
+      "height": "500",
+      "start": "0",
+      "end": "1200"
+    }
+  ],
+  "playerspawn":{
+    "lane":"lane0",
+    "pos":"0"
+  }
+}

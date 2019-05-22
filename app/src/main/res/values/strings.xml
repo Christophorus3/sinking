@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sinking</string>
+    <string name="atart_Level_1">Start Level 1</string>
+    <string name="atart_Level_2">Start Level 2</string>
+    <string name="highscores">Highscores</string>
+    <string name="quit_game">Quit Game</string>
+    <string name="title_activity_game_engine">GameEngine</string>
+    <string name="skip_intro_hint">Tap to skip</string>
+    <string name="help_text">Use \"left\" and \"right\" buttons to move the player along the deck. Use the \"action\" button on the right to repair things or use climb ladders.</string>
+    <string name="help_title">Help</string>
+    <string name="won">You did it!</string>
+    <string name="you_won_message">You Saved the Boat from Sinking!</string>
+    <string name="lost">You sank!</string>
+    <string name="you_lost_message">You didn\'t make it!</string>
+    <string name="your_time">Your time:</string>
+    <string name="okay">Aye!</string>
+    <string name="name">Name</string>
+</resources>
